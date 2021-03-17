@@ -1,7 +1,5 @@
-# Blok-Tech
+# Blok-Tech | Job matcher
 Blok Tech: Matching Applicatie, Frontend-development &amp; Backend-development
-
-# Job matcher
 
 ## Concept ##
 
