@@ -17,6 +17,9 @@ Game matcher is een cross-platform matching applicatie die gamers gaat helpen bi
 git clone https://github.com/M4TThys123/Blok-Tech.git
 ```
 ```
+cd /Users/matthijsblauw/Project-Tech
+```
+```
 npm install
 ```
 ```
