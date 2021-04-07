@@ -33,3 +33,17 @@ De opdracht voor dit project is het maken van een matching applicatie/website. H
 
 ## License
 Usage is provided under the [MIT License](https://github.com/M4TThys123/Blok-Tech-Team/blob/main/LICENSE). See LICENSE for the full details.
+
+
+## FEEDBACK PROJECT TECH
+Er is ter wijnig diepgaande research gedaan.
+Er is geen duidelijke structuur in de github pagina.
+De feacher is niet af
+De feacher is niet gedeployt
+Verzorging van die wiki is niet af.
+Readme is niet af
+spelfouten
+
+ds store
+
+
